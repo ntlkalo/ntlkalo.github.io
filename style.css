@@ -14,6 +14,12 @@ h2  {
   font-family: sans-serif;
   color: #2C3539;
 }
+h3 {
+  font-family: sans-serif;
+  color: #2C3539;
+  font-style: italic;
+  line-height: 0;
+}
 
 p  {
   font-family: sans-serif;
@@ -25,6 +31,15 @@ a {
   color: teal;
 }
 
+li {
+  display: list-item;
+  font-family: sans-serif;
+  list-style-position: inside;
+}
+
+.indent {
+  padding-left: 30px;
+}
 
 /*This is a class*/
 .uppercase{
