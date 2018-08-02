@@ -1,0 +1,39 @@
+body {
+background-color: #EBF4FA;
+}
+
+
+
+/*This is a tag*/
+h1  {
+  font-family: sans-serif;
+  color: #2C3539;
+}
+
+h2  {
+  font-family: sans-serif;
+  color: #2C3539;
+}
+
+p  {
+  font-family: sans-serif;
+  color: #2C3539;
+  font-size: 16px;
+}
+a {
+  font-family: sans-serif;
+  color: teal;
+}
+
+
+/*This is a class*/
+.uppercase{
+  text-transform: uppercase;
+}
+.content{
+  padding: 40px;
+}
+/*This is an ID*/
+#title{
+  color: navy;
+}
